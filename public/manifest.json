@@ -1,0 +1,19 @@
+{
+  "name": "BB Betting",
+  "short_name": "BB Betting",
+  "theme_color": "#6247AA",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icons/icon120x120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

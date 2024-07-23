@@ -1,0 +1,29 @@
+{
+  "count": 4,
+  "results": [
+    {
+      "date": "27/08/2022",
+      "name": "Sam",
+      "type": "W",
+      "team": "Watford"
+    },
+    {
+      "date": "13/09/2022",
+      "name": "Sam",
+      "type": "W",
+      "team": "Hull"
+    },
+    {
+      "date": "31/12/2022",
+      "name": "Lewis",
+      "type": "C",
+      "team": "Fulham"
+    },
+    {
+      "date": "15/04/2023",
+      "name": "Sam",
+      "type": "SOT",
+      "team": ["Southampton", "Crystal Palace"]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "date": "05/08/2023",
+      "name": "Ben",
+      "type": "W",
+      "team": "Stockport"
+    },
+    {
+      "date": "26/08/2023",
+      "name": "Jamie",
+      "type": "W",
+      "team": "Barnet"
+    },
+    {
+      "date": "16/09/2023",
+      "name": "Jamie",
+      "type": "W",
+      "team": "Barnet"
+    },
+    {
+      "date": "23/09/2023",
+      "name": "Ben",
+      "type": "W",
+      "team": "MK Dons"
+    },
+    {
+      "date": "07/10/2023",
+      "name": "Jamie",
+      "type": "W",
+      "team": "Eastleigh"
+    },
+    {
+      "date": "21/10/2023",
+      "name": "Jamie",
+      "type": ["BTTS", "FM"],
+      "team": "Birmingham"
+    },
+    {
+      "date": "11/11/2023",
+      "name": "Ben",
+      "type": "BTTS",
+      "team": ["Blackpool", "Wycombe"]
+    },
+    {
+      "date": "25/11/2023",
+      "name": "Lewis",
+      "type": "W",
+      "team": "Oldham"
+    },
+    {
+      "date": "25/11/2023",
+      "name": "Jamie",
+      "type": "BTTS",
+      "team": ["Sunderland", "Coventry"]
+    },
+    {
+      "date": "26/12/2023",
+      "name": "Ben",
+      "type": "W",
+      "team": "Peterborough"
+    },
+    {
+      "date": "01/01/2024",
+      "name": "Lewis",
+      "type": "BTTS",
+      "team": ["Halifax", "Altrincham"]
+    },
+    {
+      "date": "06/01/2024",
+      "name": "Lewis",
+      "type": "BTTS",
+      "team": "Dorking"
+    },
+    {
+      "date": "13/01/2024",
+      "name": "Sam",
+      "type": ["W", "FM"],
+      "team": "Crawley"
+    },
+    {
+      "date": "13/01/2024",
+      "name": "Sam",
+      "type": ["BTTS", "FM"],
+      "team": "Doncaster"
+    },
+    {
+      "date": "24/02/2024",
+      "name": "Lewis",
+      "type": "BTTS",
+      "team": "Flyde"
+    },
+    {
+      "date": "02/03/2024",
+      "name": "Sam",
+      "type": "W",
+      "team": "Crewe"
+    },
+    {
+      "date": "27/04/2024",
+      "name": "Sam",
+      "type": "SOT",
+      "team": "Fulham"
+    },
+    {
+      "date": "11/05/2024",
+      "name": "Lewis",
+      "type": ["C", "CSFM"],
+      "team": "West Ham"
+    }
+  ]
+}

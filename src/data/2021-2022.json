@@ -1,0 +1,77 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "date": "07/08/2021",
+      "name": "Lewis",
+      "type": "W",
+      "team": "Montrose"
+    },
+    {
+      "date": "02/10/2021",
+      "name": "Jamie",
+      "type": "W",
+      "team": null
+    },
+    {
+      "date": "09/10/2021",
+      "name": "Sam",
+      "type": "W",
+      "team": null
+    },
+    {
+      "date": "16/10/2021",
+      "name": "Lewis",
+      "type": "W",
+      "team": null
+    },
+    {
+      "date": "13/10/2021",
+      "name": "Ben",
+      "type": "W",
+      "team": null
+    },
+    {
+      "date": "04/12/2021",
+      "name": "Ben",
+      "type": "W",
+      "team": "Burton"
+    },
+    {
+      "date": "08/01/2022",
+      "name": "Jamie",
+      "type": "BTTS",
+      "team": "Bradford"
+    },
+    {
+      "date": "29/01/2022",
+      "name": "Ben",
+      "type": "W",
+      "team": "Wigan"
+    },
+    {
+      "date": "05/02/2022",
+      "name": "Jamie",
+      "type": "W",
+      "team": "Tranmere"
+    },
+    {
+      "date": "12/02/2022",
+      "name": "Jamie",
+      "type": "W",
+      "team": "Forest Green"
+    },
+    {
+      "date": "19/03/2022",
+      "name": "Sam",
+      "type": "W",
+      "team": "West Brom"
+    },
+    {
+      "date": "09/04/2022",
+      "name": "Sam",
+      "type": "W",
+      "team": "Blackburn"
+    }
+  ]
+}
