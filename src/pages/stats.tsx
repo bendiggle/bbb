@@ -26,6 +26,7 @@ const Stats = () => {
   const bogeyTeam = useMemo(() => getBogeyTeam(), []);
   return (
     <Box sx={{ flexGrow: 1 }}>
+      Meow
       <Grid container spacing={1.5}>
         <Grid item xs={6}>
           <Paper variant="outlined">
@@ -57,6 +58,7 @@ const Stats = () => {
               ]}
               series={[{ dataKey: 'total', label: 'Total lost by one' }]}
               slotProps={{ legend: { hidden: true, padding: 100 } }}
+              sx={{ '&&': { touchAction: 'auto' } }}
               height={300}
             />
           </Paper>
@@ -83,6 +85,7 @@ const Stats = () => {
                 },
               ]}
               height={200}
+              sx={{ '&&': { touchAction: 'auto' } }}
             />
           </Paper>
         </Grid>
@@ -112,6 +115,7 @@ const Stats = () => {
               slotProps={{ legend: { hidden: true } }}
               height={300}
               layout="horizontal"
+              sx={{ '&&': { touchAction: 'auto' } }}
             />
           </Paper>
         </Grid>
@@ -129,8 +133,8 @@ const Stats = () => {
                   data: estimatedLossByPerson,
                 },
               ]}
-              // margin={{ right: 5 }}
               height={200}
+              sx={{ '&&': { touchAction: 'auto' } }}
             />
           </Paper>
         </Grid>
